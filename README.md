@@ -93,9 +93,3 @@ This file serves as the link between the interpreted data from ChatGPT-4 and the
 ## Recommendations:
 - **Command Line Usage:** It's recommended to use these tools via the command line for fast and efficient data processing.
 - **Future Plans:** In the future, a Tkinter-based graphical interface may be developed to allow for easier, more accessible modifications of GeoJSON data without requiring command-line knowledge.
-
----
-
-### Final Thoughts:
-These tools streamline the process of updating GeoJSON files, making it easy to interpret region-specific data and apply changes in bulk. This is especially useful when working with large datasets or when collaborating with AI-based tools like ChatGPT-4.
-
