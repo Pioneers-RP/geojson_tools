@@ -1,5 +1,4 @@
 import json
-import sys
 from geojson_dict import get_geojson_dict
 
 def read_geojson(file_path):
